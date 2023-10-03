@@ -24,6 +24,12 @@ Create a Quiz / Test Generator App. It will include a registration, login, subje
     - Github: [https://github.com/Aim4dabush](https://github.com/Aim4dabush)
     - LinkedIn: [https://www.linkedin.com/in/ed-arasato-74614112a/](https://www.linkedin.com/in/ed-arasato-74614112a/)
 - Developers
+  - Pablo Gomez-Echegaray
+    - Github: [https://github.com/Gome510](https://github.com/Gome510)
+    - LinkedIn: [https://www.linkedin.com/in/pablo-gomez-echegaray-39347a206/](https://www.linkedin.com/in/pablo-gomez-echegaray-39347a206/)
+  - Francesca Immediato
+    - Github: [https://github.com/FrancescaImmediato](https://github.com/FrancescaImmediato)
+    - LinkedIn: [https://www.linkedin.com/in/francesca-immediato-896348232/](https://www.linkedin.com/in/francesca-immediato-896348232/)
 
 ### Goals
 
