@@ -2,6 +2,21 @@
 
 Create a Quiz / Test Generator App. It will include a registration, login, subject selection, multiple choice test, and score keeping. This app will not include a backend data storage or authentication.
 
+## Table of Contents
+
+- [Overview](#overview)
+  - [Table of Contents](#table-of-contents)
+    - [Authors](#authors)
+    - [Goals](#goals)
+  - [Project Instructions](#project-instructions)
+    - [Github Conventions](#github-conventions)
+    - [Cloning](#cloning)
+    - [Making A Pull Request](#making-a-pull-request)
+    - [Branching and Merging off your dev branch](#branching-and-merging-off-your-dev-branch)
+    - [Project File Organization](#project-file-organization)
+  - [Tools](#tools)
+    - [Built With](#built-with)
+
 ### Authors
 
 - Lead
@@ -41,11 +56,9 @@ Create a Quiz / Test Generator App. It will include a registration, login, subje
 1. Never work on the master branch. Always create your own dev branch.
 2. Branch name convention will be first name, first initial of last name, and followed by "Dev".
    - Example my name is Edward Arasato so my branch name will be `EdwardADev`
-3. Commit messages should include the page or component you worked on and a brief description on what you did. You can ask me if your're unsure.
-   - Example "Login Page - created username and password fields"
-4. Make sure to break up your work and push after each part is done. Typically it should be create page or component, then fetch data from API, then html with data, and then any functionality.
-5. Always update your branch everyday before you start working even if you think there is nothing to update by using `git fetch origin master`.
-6. Never merge your work until I have approved the work. Make sure to message me when you make a pull request.
+3. Make sure to break up your work and push after each part is done. Typically it should be create page and/or component, then fetch data from API, then html with data, and then any functionality.
+4. Always update your branch everyday before you start working even if you think there is nothing to update by using `git fetch origin master`.
+5. Never merge your work until I have approved the work. Make sure to message me when you make a pull request.
 
 ### Cloning
 
@@ -58,6 +71,14 @@ Create a Quiz / Test Generator App. It will include a registration, login, subje
    - Note: *You can create more branches off of your dev branch if you would like. I'll put instructions for that in the next section.*
 6. Then navigate to your newly created dev branch with `git checkout ` then the dev branch you created.
 7. Any questions please ask.
+
+### Making A Pull Request
+
+1. When you are ready to push your work add your files with `git add ` the files you are pushing or `git add .` if you are adding all files.
+2. Make a commit with `git commit -m ` then your message in quotations.
+3. Commit messages should include the page or component you worked on and a brief description on what you did. You can ask me if your're unsure.
+   - Example "Login Page - created username and password fields"
+4. Then push your work with `git push origin ` then your dev branch.
 
 ### Branching and Merging off your dev branch
 
