@@ -64,7 +64,7 @@ Create a Quiz / Test Generator App. It will include a registration, login, subje
 
 1. Go to repository and copy the https url.
 2. In your local terminal enter `git clone ` then paste the url after clone.
-3. Once cloned navigate to the folder test-generator by `cd test-generator`.
+3. Once cloned navigate to the folder Intern-Quiz-Generator by `cd Intern-Quiz-Generator`.
 4. Once in the folder be sure install dependencies with `npm install` or `npm i` for short.
 5. After install immediately make your branch with `git checkout -b ` then your dev branch name.
    - **Note: Make sure to follow dev branch naming convention mentioned in the "Conventions" section.**
