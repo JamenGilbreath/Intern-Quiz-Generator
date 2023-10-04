@@ -1,0 +1,21 @@
+/* Header */
+.background {
+    background-color: #925E78;
+}
+.nav-bar {
+    background-color: #F2EDEB;
+    color: #0c2a54;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+#nav-item {
+    padding: 15px;
+    margin: 7px;
+    background-color: #FABC2A;
+    color: #0c2a54;
+    border-radius: 15px;
+}
