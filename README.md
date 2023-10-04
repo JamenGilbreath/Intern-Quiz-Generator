@@ -30,6 +30,9 @@ Create a Quiz / Test Generator App. It will include a registration, login, subje
   - Francesca Immediato
     - Github: [https://github.com/FrancescaImmediato](https://github.com/FrancescaImmediato)
     - LinkedIn: [https://www.linkedin.com/in/francesca-immediato-896348232/](https://www.linkedin.com/in/francesca-immediato-896348232/)
+  - Kimberly Encinas
+    - Github: [https://github.com/kimbencinas](https://github.com/kimbencinas)
+    - LinkedIn: [https://www.linkedin.com/in/kimberly-encinas-656929252/](https://www.linkedin.com/in/kimberly-encinas-656929252/)
 
 ### Goals
 
@@ -117,3 +120,4 @@ Create a Quiz / Test Generator App. It will include a registration, login, subje
 
 - Vite: [https://vitejs.dev/guide/](https://vitejs.dev/guide/)
 - React-Bootstrap: [https://react-bootstrap.github.io/](https://react-bootstrap.github.io/)
+- Public API: [https://the-trivia-api.com/docs/v2/#tag/Questions](https://the-trivia-api.com/docs/v2/#tag/Questions)
