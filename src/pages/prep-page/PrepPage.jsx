@@ -21,7 +21,7 @@ function PrepPage({ quizName, link }) {
         style={{ width: "50%", minWidth: "20rem" }}
       >
         <h1 className="mb-4">Ready for {quiz}?</h1>
-        <Link className="w-50 h-50" to={quiz}>
+        <Link className="w-50 h-50" to="/questions">
           <Button size="lg" className="w-100 h-100">
             Start Quiz
           </Button>
