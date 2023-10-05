@@ -63,4 +63,5 @@ Create a Quiz / Test Generator App. It will include a registration, login, subje
 
 - Vite: [https://vitejs.dev/guide/](https://vitejs.dev/guide/)
 - React-Bootstrap: [https://react-bootstrap.github.io/](https://react-bootstrap.github.io/)
+- React Router V6: [https://reactrouter.com/en/6.16.0/docs/en/v6/getting-started/overview](https://reactrouter.com/en/6.16.0/docs/en/v6/getting-started/overview)
 - Public API: [https://the-trivia-api.com/docs/v2/#tag/Questions](https://the-trivia-api.com/docs/v2/#tag/Questions)
