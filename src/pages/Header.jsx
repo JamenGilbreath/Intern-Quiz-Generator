@@ -1,10 +1,25 @@
-import '../App.css'
+import '../App.css';
+import { Link } from 'react-router-dom';
+
 export default function Header() {
     return (
         <nav className="nav-bar">
-            <h1>INTERN QUIZ GENERATOR</h1>
-            <h2 id="nav-item">QUIZ</h2>
-            <h2 id="nav-item">SCORE</h2>
+            <h1 id="nav-title">INTERN QUIZ GENERATOR</h1>
+            <h2 id="nav-item">
+                <Link to={`/`}>HOME</Link>
+            </h2>
+            <h2 id="nav-item">
+                <Link to={`/login`}>LOGIN</Link>
+            </h2>
+            <h2 id="nav-item">
+                <Link to={`/register`}>REGISTER</Link>
+            </h2>
+            <h2 id="nav-item">
+                <Link to={`/prepare`}>PREPARE</Link>
+            </h2>
+            <h2 id="nav-item">
+                <Link to={`/questions`}>QUESTIONS</Link>
+            </h2>
         </nav>
-    )
+    );
 }

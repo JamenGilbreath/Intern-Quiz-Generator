@@ -4,11 +4,12 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from "./pages/Header.jsx"
 import React from 'react';
 
+
 function App() {
   return (
-    <div class="background">
+    <div>
       <Header />
-      <div>App</div>
+      <Outlet></Outlet>
     </div>
   )
 }
