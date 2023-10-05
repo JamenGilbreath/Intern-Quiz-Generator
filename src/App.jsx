@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return <>
-    <nav><Link to={"/register"}>Register</Link><Link to={"/login"}>Login</Link></nav>
+    <nav></nav>
     <main>
       <Outlet />
     </main>
