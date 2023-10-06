@@ -6,7 +6,7 @@ function QuestionPage() {
 
   useEffect(() => {
     // Define the API endpoint and query parameters
-    const apiUrl = "https://the-trivia-api.com/api/questions"; // Replace with the actual API URL
+    const apiUrl = "https://the-trivia-api.com/v2/questions";
     const limit = 10;
     const categories =
       "science,film_and_tv,music,history,geography,art_and_literature,sport_and_leisure,general_knowledge,science,food_and_drink";
@@ -21,7 +21,7 @@ function QuestionPage() {
       .then((response) => response.json())
       .then((data) => {
         console.log(data);
-        setTrivia(data); // Assuming the API response is an array of questions
+        setTrivia(data);
       })
       .catch((err) => {
         console.log(err.message);
